@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hello 👋
+This is my student account, I also have my own work account: @VictorDaviSB
+I am currently a Eletronic Engennering student at ITA. Outsite from the obligations of university, I work in Web Development and I´m trying to develop skills in Software Architecture
+
+Here are some of my Skills:
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,ts,html,css,react,nodejs,prisma,postgres,py,docker)](https://skills.thijs.gg)
+
+
 
 <!--
 **victordaviITA/victordaviITA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
